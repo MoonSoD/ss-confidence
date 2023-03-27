@@ -1,0 +1,17 @@
+.l {
+    font-size: 1.5rem;
+}
+
+.xl {
+    font-size: 2rem;
+}
+
+.image-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+b.red {
+    background-color: rgb(158, 56, 56);
+}
